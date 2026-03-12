@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+
+# Playwright Test Reports and Results
+playwright-report/
+test-results/
+.playwright/
+
+# TypeScript/Node build artifacts
+dist/
+build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
